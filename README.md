@@ -20,3 +20,5 @@ curl -I -s "http://localhost:3000/api/v1/weather/summary?unit=18C&locations=2210
 
 * Request rate limit throttling => Rack::Attack
 
+* No Authentication yet
+
