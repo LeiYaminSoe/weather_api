@@ -18,4 +18,5 @@ Things you may want to cover:
 
 curl -I -s "http://localhost:3000/api/v1/weather/summary?unit=18C&locations=2210247,2563191,232323[1-10035]" | grep HTTP/
 
+* Request rate limit throttling => Rack::Attack
 
